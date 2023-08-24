@@ -24,3 +24,7 @@ Netflix clone using Firebase
     <td><img src="https://github.com/ntritin62/netflix-clone/assets/104788686/8305f3f7-879e-428e-8769-35cb07679fc0" alt="mockups" /></td>
   </tr>
 </table>
+
+# Visit :
+
+<a href="https://netflix-clone-ntritin62.vercel.app/browse">Link</a>
